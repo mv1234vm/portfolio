@@ -1,4 +1,4 @@
-const startDate = new Date("2025-12-15T00:00:00");
+const startDate = new Date("2025-12-15T14:34:03");
 
 function updateCounter() {
     const now = new Date();
